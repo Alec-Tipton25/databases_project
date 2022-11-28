@@ -14,7 +14,14 @@
           integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous">
   </script>
   <!-- Test for valid info and return checkout success or failure -->
-  <h4> Checkout Success. Or failure we're not sure yet. </h4>
+  <div class="container-fluid bg-light text-dark border-top border-bottom w-50 text-center">
+    <br>
+    <br>
+    <br>
+    <h4> Checkout Success. Or failure we're not sure yet. </h4>
+    <br>
+    <p> Don't forget to track your order!</p>
+    <button>Button for tracking product</button>
 
 </body>
 </html>
